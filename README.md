@@ -17,11 +17,11 @@ Projektas skirtas analizuoti duota teksta, norint issiaiskinti kaip jis sudaryta
 
 ## Placiau apie metodus
 
-### paragraphCount()
+### *paragraphCount()*
 
 paragraphCount() aprasymas ir gal net su pavyzdziai...
 
-### sentenceCount()
+### *sentenceCount()*
 
 sentenceCount() aprasymas ir gal net su pavyzdziai...
 
